@@ -27,11 +27,13 @@ function Navbar() {
   return (
     <nav className={scrolled ? "nav scrolled" : "nav"}>
 
-      <img src="/logo.png" className="logo" />
+      <img src="/logo.png" className="logo" alt="Cosmocamping logo" />
 
-      <div className="hamburger" onClick={toggleMenu}>
-        ☰
+
+     <div className="hamburger" onClick={toggleMenu}>
+       ☰
       </div>
+
 
       <ul className={menuOpen ? "nav-links active" : "nav-links"}>
 

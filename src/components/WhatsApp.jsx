@@ -1,10 +1,14 @@
+import { FaWhatsapp } from "react-icons/fa"
+
 function WhatsApp() {
   return (
     <a
       href="https://wa.me/595985200114"
-      className="whatsapp"
       target="_blank"
+      rel="noopener noreferrer"
+      className="whatsapp"
     >
+      <FaWhatsapp />
     </a>
   )
 }
