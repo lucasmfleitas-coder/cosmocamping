@@ -1,12 +1,8 @@
-/* LOGO */
-
 .logo {
   height: 70px;
   filter: invert(1);
 }
 
-
-/* NAVBAR DINAMICO */
 
 .nav {
   position: fixed;
@@ -42,8 +38,6 @@ nav a:hover {
 }
 
 
-
-/* HERO */
 
 .hero {
   height: 100vh;
@@ -86,8 +80,6 @@ nav a:hover {
 
 
 
-/* BOTON HERO */
-
 .hero-button {
   display: inline-block;
   margin-top: 20px;
@@ -110,8 +102,6 @@ nav a:hover {
 
 
 
-
-/* SERVICES */
 
 .services {
   padding: 100px 60px;
@@ -159,8 +149,6 @@ nav a:hover {
 
 
 
-/* ABOUT */
-
 .about {
   padding: 100px 60px;
   background: #111;
@@ -204,7 +192,6 @@ nav a:hover {
 
 
 
-/* CONTACT */
 
 .contact {
   padding: 100px 60px;
@@ -213,7 +200,6 @@ nav a:hover {
 
 
 
-/* FOOTER */
 
 footer {
   padding: 30px;
@@ -223,7 +209,6 @@ footer {
 
 
 
-/* WHATSAPP */
 
 .whatsapp {
   position: fixed;
